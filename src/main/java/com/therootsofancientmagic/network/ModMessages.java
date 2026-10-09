@@ -9,7 +9,7 @@ import net.minecraft.server.network.ServerPlayerEntity;
 import net.minecraft.util.Identifier;
 
 public class ModMessages {
-    // Создает уникальний айди канал
+    // Создает уникальний айди канaл
     public static final Identifier MANA_SYNC_ID = new Identifier("the-roots-of-ancient-magic", "mana_sync");
 
     // Метод для регистрации приемников пакетов
